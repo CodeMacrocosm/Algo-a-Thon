@@ -23,12 +23,15 @@ public class UserController {
    * @throws ResourceNotFoundException the resource not found exception
    */
   @GetMapping("/users/{id}")
-  public ResponseEntity<User> getUsersById(@PathVariable(value = "id") Long userId)
-      throws ResourceNotFoundException {
-    User user =
-        userRepository
-            .findById(userId)
-            .orElseThrow(() -> new ResourceNotFoundException("User not found on :: " + userId));
+  public ResponseEntity<User> getUsersById(
+    @PathVariable(value = "id") Long userId
+  )
+    throws ResourceNotFoundException {
+    User user = userRepository
+      .findById(userId)
+      .orElseThrow(
+        () -> new ResourceNotFoundException("User not found on :: " + userId)
+      );
     return ResponseEntity.ok().body(user);
   }
 
@@ -53,13 +56,15 @@ public class UserController {
    */
   @PutMapping("/users/{id}")
   public ResponseEntity<User> updateUser(
-      @PathVariable(value = "id") Long userId, @Valid @RequestBody User userDetails)
-      throws ResourceNotFoundException {
-
-    User user =
-        userRepository
-            .findById(userId)
-            .orElseThrow(() -> new ResourceNotFoundException("User not found on :: " + userId));
+    @PathVariable(value = "id") Long userId,
+    @Valid @RequestBody User userDetails
+  )
+    throws ResourceNotFoundException {
+    User user = userRepository
+      .findById(userId)
+      .orElseThrow(
+        () -> new ResourceNotFoundException("User not found on :: " + userId)
+      );
 
     user.setEmail(userDetails.getEmail());
     user.setLastName(userDetails.getLastName());
@@ -77,11 +82,15 @@ public class UserController {
    * @throws Exception the exception
    */
   @DeleteMapping("/user/{id}")
-  public Map<String, Boolean> deleteUser(@PathVariable(value = "id") Long userId) throws Exception {
-    User user =
-        userRepository
-            .findById(userId)
-            .orElseThrow(() -> new ResourceNotFoundException("User not found on :: " + userId));
+  public Map<String, Boolean> deleteUser(
+    @PathVariable(value = "id") Long userId
+  )
+    throws Exception {
+    User user = userRepository
+      .findById(userId)
+      .orElseThrow(
+        () -> new ResourceNotFoundException("User not found on :: " + userId)
+      );
 
     userRepository.delete(user);
     Map<String, Boolean> response = new HashMap<>();
