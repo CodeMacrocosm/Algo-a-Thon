@@ -1,5 +1,3 @@
-package Practice.DSA;
-
 public class TrappedRain {
 	public static int tappedrain(int height[]) {
 		int n = height.length;
