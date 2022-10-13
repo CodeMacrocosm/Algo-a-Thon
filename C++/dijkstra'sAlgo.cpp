@@ -1,5 +1,5 @@
 #include<iostream>
-#include<stdio.h>
+#include<limits.h>
 using namespace std;
 
 int miniDist(int distance[], bool Tset[]) // finding minimum distance
