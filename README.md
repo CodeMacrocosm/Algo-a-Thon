@@ -2,14 +2,16 @@
 
 ## Repository Stats 📊
 
-[![GitHub stars](https://img.shields.io/github/stars/codeMacrocosm/Algo-a-Thon-22.svg)](https://github.com/codemacrocosm/Algo-a-Thon-22/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/codemacrocosm/Algo-a-Thon-22.svg)](https://github.com/codemacrocosm/Algo-a-Thon-22/stargazers)
 
-[![GitHub forks](https://img.shields.io/github/forks/codeMacrocosm/Algo-a-Thon-22.svg)](https://github.com/codemacrocosm/Algo-a-Thon-22/network)
+[![GitHub forks](https://img.shields.io/github/forks/codemacrocosm/Algo-a-Thon-22.svg)](https://github.com/codemacrocosm/Algo-a-Thon-22/network)
 
 [![GitHub contributors](https://img.shields.io/github/contributors/codemacrocosm/Algo-a-Thon-22.svg)](https://github.com/codemacrocosm/Algo-a-thon-22/graphs/contributors)
 
 
-Welcome to Algo-a-thon! 🌟 This repository is hosted by Shreya Malogi a collaborative space for contributors to share algorithms implemented in various programming languages. Whether you're a seasoned coder or just getting started, your contributions are valued.
+🌟 **Welcome to Algo-a-thon!** 🚀
+
+This repository is hosted by Shreya Malogi, a collaborative space for contributors to share algorithms implemented in various programming languages. Whether you're a seasoned coder or just getting started, your contributions are valued. 🌐💻✨
 
 ## Getting Started 🛠️
 
@@ -79,8 +81,8 @@ Copyright (c) 2022 CodeMacrocosm
 Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
 
-<a href="https://github.com/codemacrocosm/Pattern-a-Thon-22/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codemacrocosm/Pattern-a-Thon-22" />
+<a href="https://github.com/codemacrocosm/Algo-a-Thon-22/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codemacrocosm/Algo-a-Thon-22" />
 </a>
 
 
