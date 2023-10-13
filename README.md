@@ -1,19 +1,57 @@
-# Algo-a-thon' 22 🚀✨ " Unleashing Algorithms and Coding the Future! 🌐✨"
-
-## Repository Stats 📊
-
-[![GitHub stars](https://img.shields.io/github/stars/codemacrocosm/Algo-a-Thon-22.svg)](https://github.com/codemacrocosm/Algo-a-Thon-22/stargazers)
-
-[![GitHub forks](https://img.shields.io/github/forks/codemacrocosm/Algo-a-Thon-22.svg)](https://github.com/codemacrocosm/Algo-a-Thon-22/network)
-
-[![GitHub contributors](https://img.shields.io/github/contributors/codemacrocosm/Algo-a-Thon-22.svg)](https://github.com/codemacrocosm/Algo-a-thon-22/graphs/contributors)
 
 
-🌟 **Welcome to Algo-a-thon!** 🚀
+<div align="center">
 
-This repository is hosted by Shreya Malogi, a collaborative space for contributors to share algorithms implemented in various programming languages. Whether you're a seasoned coder or just getting started, your contributions are valued. 🌐💻✨
+# 🚀 Algo-a-Thon' 22 ✨ : Unleashing Algorithms 🌐
 
-## Getting Started 🛠️
+</div>
+<p align="center">
+  <a href="https://github.com/CodeMacrocosm/Algo-a-Thon-22/stargazers">
+    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Algo-a-Thon-22?style=flat-square" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/CodeMacrocosm/Algo-a-Thon-22/network">
+    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Algo-a-Thon-22?style=flat-square" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/codemacrocosm/Algo-a-Thon-22/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/codemacrocosm/Algo-a-Thon-22.svg" alt="GitHub contributors">
+  </a>
+  <img src="https://img.shields.io/github/license/CodeMacrocosm/Algo-a-Thon-22" alt="GitHub">
+</p>
+
+<div align="center">
+
+### ✨ Hall Of Fame
+
+Thanks goes to these amazing people for their contributions 🎉🎉🎉
+
+<a href="https://github.com/codeMacrocosm/Algo-a-Thon-22/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Algo-a-Thon-22" />
+</a>
+
+</div>
+
+
+
+
+### Table of Contents 📚
+
+1. [Overview](#overview)
+2. [How to Contribute?](#how-to-contribute)
+3. [Folder Structure](https://github.com/CodeMacrocosm/Algo-a-Thon-22/edit/main/README.md#folder-structure-)
+4. [Star it](#how-to-star-)
+5. [License](#-license)
+6. [Thanks Contributors](#contributors-)
+
+
+---
+
+
+
+## Overview
+
+This repository is hosted by **Shreya Malogi**, a collaborative space 🚀 for contributors to share algorithms implemented in various programming languages 🌟. Whether you're a seasoned coder or just getting started, your contributions are valued. 🌐💻✨
+
+## How to Contribute?
 
 1. **Fork this repository:**
    Click the "Fork" button in the top right of this page to create your own copy.
@@ -55,19 +93,15 @@ This repository is hosted by Shreya Malogi, a collaborative space for contributo
 
 ## Folder Structure 📂
 
-- Each algorithm should be added to a specific language folder (e.g., Python, Java, C++).
+- In algos folder, Each algorithm should be added to a specific language folder (e.g., Python, Java, C++).
 - If the folder for your language doesn't exist, create it.
 
-## Contributing 🤝
 
-Contributions are encouraged and welcomed! Feel free to add algorithms, improve existing ones, or suggest enhancements.
+### How to Star ⭐
 
-## Code of Conduct 🤖
+If you enjoyed this repo or find them inspiring, don't forget to ⭐ the repository! Your support is appreciated.
 
-Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to foster a positive and inclusive community.
-
-
-## 📄 License
+### 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📜
 
@@ -76,19 +110,10 @@ MIT License
 Copyright (c) 2022 CodeMacrocosm
 
 
-## ✨ Hall Of Fame
+### Contributors 🙌
 
-Thanks goes to these amazing people for their contributions 🎉🎉🎉
+A big thanks to all the creative minds who have contributed.
 
+Now, let the creation begin! Happy coding! 🎨✨
 
-<a href="https://github.com/codemacrocosm/Algo-a-Thon-22/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codemacrocosm/Algo-a-Thon-22" />
-</a>
-
-
-## How to Star ⭐
-
-If you enjoy the patterns or find them inspiring, don't forget to ⭐ the repository! Your support is appreciated.
-
-Happy coding and algorithm sharing! 🚀✨
 
