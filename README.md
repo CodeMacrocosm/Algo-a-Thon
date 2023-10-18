@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🚀 Algo-a-Thon' 22 ✨ : Unleashing Algorithms 🌐
+# 🚀 Algo-a-Thon' 22 ✨ : Unleashing Algos 🌐
 
 </div>
 <p align="center">
