@@ -49,7 +49,7 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
 ## Overview
 
-This repository is hosted by **Shreya Malogi**, a collaborative space 🚀 for contributors to share algorithms implemented in various programming languages 🌟. Whether you're a seasoned coder or just getting started, your contributions are valued. 🌐💻✨
+This repository is hosted by **Shreya Malogi**, a collaborative space 🚀 for contributors to share algorithms implemented in various programming languages 🌟. Whether you're a seasoned coder or just getting started, your contributions are valued. 🌐💻
 
 ## How to Contribute?
 
