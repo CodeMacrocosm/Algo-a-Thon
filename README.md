@@ -71,7 +71,7 @@ This repository is hosted by **Shreya Malogi**, a collaborative space 🚀 for c
    ```
 
 4. **Make your changes:**
-   Add your algorithm implementation in the appropriate language folder. If the folder doesn't exist, feel free to create it.
+   Add your algorithm implementation in the ``algos folder`` followed by your ``appropriate language folder``. If the folder doesn't exist, feel free to create it.
 
 5. **Commit and push:**
    Commit your changes and push them to your fork.
