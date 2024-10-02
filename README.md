@@ -60,7 +60,7 @@ This repository is hosted by **Shreya Malogi**, a collaborative space 🚀 for c
    Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/codemacrocosm/Algo-a-thon-22.git
+   git clone https://github.com/codemacrocosm/Algo-a-thon.git
    ```
 
 3. **Create a branch:**
