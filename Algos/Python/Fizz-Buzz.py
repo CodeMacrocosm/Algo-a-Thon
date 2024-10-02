@@ -1,34 +1,15 @@
-#!/bin/python3
+choice = int(input("Enter maximum range: "))
+choice = choice + 1
 
-import math
-import os
-import random
-import re
-import sys
-
-
-#
-# Complete the 'fizzBuzz' function below.
-#
-# The function accepts INTEGER n as parameter.
-#
-
-def fizzBuzz(n):
-    # Write your code here
-    b = "Fizz"
-    c = "Buzz"
-    for i in range(1, n + 1):
-        if i == 3 or i == 6 or i == 9 or i == 12:
-            print(b)
-        elif i == 5 or i == 10:
-            print(c)
-        elif i == 15:
-            print("FizzBuzz")
+def FizzBuzz(choice):
+    for num in range(1,choice):
+        if num % 3 == 0 and num % 5 == 0:
+            print("fizzbuzz")
+        elif num % 5 == 0:
+            print("buzz")
+        elif num % 3 == 0:
+            print("fizz")
         else:
-            print(i)
+            print(num)
 
-
-if __name__ == '__main__':
-    n = int(input().strip())
-
-    fizzBuzz(n)
+FizzBuzz(choice)
