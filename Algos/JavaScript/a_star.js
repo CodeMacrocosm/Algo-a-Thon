@@ -1,3 +1,5 @@
+
+
 let cols = 5;
 let rows = 5;
 let grid = new Array(cols);
